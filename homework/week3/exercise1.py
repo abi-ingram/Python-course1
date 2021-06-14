@@ -1,0 +1,1 @@
+my_list = ["Amy", 1, "Beth", "Charlie", 6, "Daisy", 7, 2]

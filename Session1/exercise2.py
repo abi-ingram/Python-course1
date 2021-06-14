@@ -21,4 +21,4 @@ print("Hello" + "," + " " + "world")
 print("Hello, " + "world!")
 # you can use + on strings 
 # the other operators don't work 
-print(4 * "Hello ")
+print(4 * "Hello\n")
